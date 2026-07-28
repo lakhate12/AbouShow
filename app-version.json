@@ -1,5 +1,5 @@
 {
-  "version": "2.4.6",
+  "version": "4.6",
   "url": "https://github.com/lakhate12/AbouShow/releases/latest/download/aboushow.apk",
-  "notes": "Améliorations et corrections diverses."
+  "notes": "Fix affichage films/séries, reprise épisode, dédoublonnement historique"
 }
