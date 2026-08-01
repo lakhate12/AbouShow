@@ -1,5 +1,5 @@
 {
-  "version": "4.6",
+  "version": "4.7",
   "url": "https://github.com/lakhate12/AbouShow/releases/latest/download/aboushow.apk",
-  "notes": "Fix affichage films/séries, reprise épisode, dédoublonnement historique"
+  "notes": "Fixes episode display, black screen recovery, popular hero slider"
 }
