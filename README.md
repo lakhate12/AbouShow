@@ -8,7 +8,7 @@ Application Android **AbouShow**.
 
 > Lien direct permanent : il pointe toujours vers la version la plus récente publiée.
 
-- Version actuelle : **2.4.1**
+- Version actuelle : **4.7**
 - Toutes les versions : [page des releases](https://github.com/lakhate12/aboushow/releases)
 
 ## 📲 Installation
