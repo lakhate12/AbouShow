@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.8.0",
   "url": "https://github.com/lakhate12/AbouShow/releases/latest/download/aboushow.apk",
-  "notes": "Fixes episode display, black screen recovery, popular hero slider"
+  "notes": "Fixes episode download issue"
 }
